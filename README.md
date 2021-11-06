@@ -1,9 +1,8 @@
 Hi👋 I'm Jiwoo
 ---
 
-<div align="center">
+<div>
   🛠️I can use ...
-  <br>
   <p>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white">
@@ -17,6 +16,10 @@ Hi👋 I'm Jiwoo
   </p>
 </div>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jw00oo1&count_private=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jw00oo1&count_private=true&layout=compact"></img>
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jwo0o"></img>
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=jw00oo1&count_private=true&theme=onedark"</img>
+                                                                                                       </p>
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jw00oo1&count_private=true&layout=compact"></img>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jwo0o"></img>
+                                                                                </p>
