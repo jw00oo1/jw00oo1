@@ -10,10 +10,11 @@ Hi👋 I'm Jiwoo
   <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
     <a href="https://pytorch.org" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"></a>
   </p>
-  🐋Me
+  🐋My SNS
   <p>
      <a href="mailto:winter4jiwoo@gmail.com?subject="[From Github]" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
      <a href="https://instagram.com/jjwoooo_0" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
+     <a href="https://nano-self-development.tistory.com/"><img src="https://github-readme-tistory-card.vercel.app/api/badge?name=nano-self-development&theme=kakao"></a>
   </p>
 </div>
 
