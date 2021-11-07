@@ -14,7 +14,7 @@ Hi👋 I'm Jiwoo
   <p>
      <a href="mailto:winter4jiwoo@gmail.com?subject="[From Github]" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
      <a href="https://instagram.com/jjwoooo_0" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
-     <a href="https://nano-self-development.tistory.com/"><img src="https://github-readme-tistory-card.vercel.app/api/badge?name=nano-self-development&theme=kakao"></a>
+     <a href="https://nano-self-development.tistory.com/" target="_blank"><img src="https://github-readme-tistory-card.vercel.app/api/badge?name=nano-self-development&theme=kakao"></a>
   </p>
 </div>
 
